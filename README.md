@@ -1,12 +1,6 @@
 
 # Workers-Proxy
 
-[![LICENSE](https://img.shields.io/github/license/Berkeley-Reject/Workers-Proxy.svg?style=for-the-badge)](https://github.com/Berkeley-Reject/Workers-Proxy/blob/master/LICENSE)
-[![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/Berkeley-Reject/Workers-Proxy?style=for-the-badge)](https://github.com/Berkeley-Reject/Workers-Proxy/issues)
-[![GitHub stars](https://img.shields.io/github/stars/Berkeley-Reject/Workers-Proxy?style=for-the-badge)](https://github.com/Berkeley-Reject/Workers-Proxy/stargazers)
-
-Languages: [English](https://github.com/Berkeley-Reject/Workers-Proxy/blob/master/README.md), [简体中文](https://github.com/Berkeley-Reject/Workers-Proxy/blob/master/README_zh.md).
-
 ## Introduction
 
 Workers-Proxy is a lightweight Javascript [Reverse Proxy](https://www.cloudflare.com/learning/cdn/glossary/reverse-proxy/) based on [Cloudflare Workers](https://workers.cloudflare.com/).
